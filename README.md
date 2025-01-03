@@ -1,2 +1,4 @@
-# Ola Mundo
- Primeiro repositorio do curos de Git e GitHub
+# Olá, Mundo
+ Primeiro repositório do curos de Git e GitHub
+
+Repositório criado na aula
